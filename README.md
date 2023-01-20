@@ -1,3 +1,4 @@
+<!--
 Hi there. I'm a 4th year Computer Engineering student at Delhi Technological University. 
 
 Here are some of my projects:
@@ -67,7 +68,7 @@ S, I, and R stand for: Susceptible, Infected, and Recovered.
 A real time simulation was performed, with each the number of days mapped to a certain number of seconds.
 A report was generated at the end
 
-
+-->
 <!--
 **devDogra/devDogra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
