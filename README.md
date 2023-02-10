@@ -3,7 +3,7 @@
 <h6 align="center">I'm a final year student in Delhi Technological University. I'm interested in Web Development.</h3>
 
 
-(Note - Most projects here are only for experimental purposes)
+<p align = "center"> (Note - Most projects here are only for experimental purposes) </p>
 
 
 
