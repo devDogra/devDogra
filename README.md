@@ -1,7 +1,9 @@
 
 <h3 align="center">Hi 👋, I'm Dev</h1>
-<h6 align="center">I'm a final year student in Delhi Technological University. I'm interested in Frontend Development.</h3>
+<h6 align="center">I'm a final year student in Delhi Technological University. I'm interested in Web Development.</h3>
 
+
+(Note - Most projects here are only for experimental purposes)
 
 
 
