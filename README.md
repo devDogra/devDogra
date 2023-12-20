@@ -1,53 +1,48 @@
 <!--
-Hi there. I'm a 4th year Computer Engineering student at Delhi Technological University. 
+Dev Aryan Dogra
+Delhi Technological University, 2019-2023
 
-Here are some of my projects:
+# Projects - The live link for each project is in its repo
 
-# Web Development
-## World weather website
-Fetches a list of countries and allows the user to see some current weather statistics for each country.   
-LIVE: https://devdogra.github.io/world-weather-app/  
-REPO: https://github.com/devDogra/world-weather-app  
-  
-## Etch a sketch
-LIVE: https://devdogra.github.io/etch-a-sketch-2/  
-REPO: https://github.com/devDogra/etch-a-sketch-2  
-  
-## Mock admin dashboard  
-LIVE: https://devdogra.github.io/admin-dashboard/  
-REPO: https://github.com/devDogra/admin-dashboard  
-  
-## Library  
--Add, store and remove books  
-LIVE: https://devdogra.github.io/library-js/  
-REPO: https://github.com/devDogra/library-js  
-  
-## Calculator  
-- Using regexes. No eval()  
-LIVE: https://devdogra.github.io/calculator/  
-REPO: https://github.com/devDogra/calculator  
-  
+## BurgerXYZ Order and Customer Management App
+https://github.com/devDogra/driveThruAppBackend
+
+## App to perform image segmentation of satellite images using deep learning models
+https://github.com/devDogra/water-bodies-segmentation-2
+
+## Image wordifier - Paints any image using a word of your choice
+https://github.com/devDogra/character-images
+
+-----------------------------------------------------------------------------------
+# Games and some other projects
 ## Minesweeper  
 - A clone of the classic game Minesweeper  
-LIVE: https://devdogra.github.io/minesweeper/  
-REPO: https://github.com/devDogra/minesweeper  
+https://github.com/devDogra/minesweeper 
 
-## Mock sign up form  
-- With custom validation  
-LIVE: https://devdogra.github.io/sign-up-form/  
-REPO: https://github.com/devDogra/sign-up-form  
+## World weather website
+Fetches a list of countries and allows the user to see some current weather statistics for each country.   
+https://github.com/devDogra/world-weather-app  
   
-## Date picker Widget  
-- Using date-fns  
-REPO: https://github.com/devDogra/date-picker-widget  
+## Etch a sketch
+https://github.com/devDogra/etch-a-sketch-2  
   
-# Other  
+## Calculator   
+https://github.com/devDogra/calculator  
+
+## Movies
+- Debounced fetching of movies from the OMDB API
+https://github.com/devDogra/moviesAPIWebsite
+
+## Ocean - Social media app
+ 
 ## Icy bird (Flappy bird clone)  
 - Python, PyGame  
-REPO: https://github.com/devDogra/icy-bird-pygame  
+https://github.com/devDogra/icy-bird-pygame  
   
 ## Pizza patent analysis  
 https://github.com/devDogra/pizza-patent-analysis  
+
+-----------------------------------------------------------------------------------------
 
 ## Coronavirus Database System         									
 Uses Python and MySQL
@@ -68,21 +63,7 @@ S, I, and R stand for: Susceptible, Infected, and Recovered.
 A real time simulation was performed, with each the number of days mapped to a certain number of seconds.
 A report was generated at the end
 
--->
-<!--
-**devDogra/devDogra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 
           
