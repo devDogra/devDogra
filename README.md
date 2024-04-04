@@ -1,5 +1,5 @@
 # Dev Aryan Dogra
-## Delhi Technological University, 2019-2023
+## Delhi Technological University
 
 ### Projects - The live link for each project is in its repo
 
